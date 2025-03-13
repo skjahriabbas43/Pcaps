@@ -1,0 +1,2 @@
+rule_id,count,message,classification,priority,log_entry
+1:2410081003:1,161568,Sectrio - Possible Command Injection,Attempted Administrator Privilege Gain,1,05/02/2024-22:27:30.137180  [**] [1:2410081003:1] Sectrio - Possible Command Injection [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 35.203.210.75:57432 -> 121.244.84.46:2000
